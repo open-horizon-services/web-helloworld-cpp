@@ -122,4 +122,4 @@ hzn unregister -f
 ### Authors
 
 * [Troy Fine](https://github.com/t-fine)
-* [John Walicki](https://github.com/johnwalicki)
+* [Javier A. Marin](https://github.com/JMAR059)
